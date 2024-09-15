@@ -1759,6 +1759,11 @@ section,
   }
 }
 
+@media all and (max-width: 700px) {
+  .countdown li {display: block;)
+}
+
+
 
 /* .intro {
   margin: 0;
